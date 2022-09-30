@@ -16,7 +16,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Returning Data Demo'),
+        title: const Text('Returning Data Basic App'),
       ),
       body: const Center(
         child: SelectionButton(),
